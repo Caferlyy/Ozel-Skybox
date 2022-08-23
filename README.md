@@ -1,6 +1,6 @@
 **[Özel Skybox Hakkında]**
 
-Sunucunuzda yeni bir hava mı katmak istiyorsunuz? O zaman özel skybox plugini ile belirlediğiniz 1 skyboxu her mapte çalıştırarak oyuncularınızla güzel anlar yaşayabilirsiniz.
+Sunucunuzda yeni bir hava mı katmak istiyorsunuz? O zaman özel skybox plugini ile belirlediğiniz 1 skybox seçerek her mapte çalıştırarak oyuncularınızla güzel anlar yaşayabilirsiniz.
 
 🔵 AYARLAR<br>
 Skybox Ayarı : Cvar üzerinden ayarlanır. Örn : !cvar sm_skybox_isim SKYBOXİSMİ <br>
